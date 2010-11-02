@@ -1,0 +1,5 @@
+This is a script help you to install gentoo-prefix on Linux, tested on Debian/Squeeze amd64.
+
+Requirements: glibc >= 2.8; python >= 2.6; bash >= 3.2; sed >= 4.0.5.
+
+To make it work on Debian/Lenny. You can use [Apt-Pinning](http://jaqque.sbih.org/kplug/apt-pinning.html) to upgrade glibc(a.k.a. libc6) and python.
